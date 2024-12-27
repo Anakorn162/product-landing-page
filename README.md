@@ -5,7 +5,7 @@
 
 - git config --global user.name "Anakorn"
 - git config --global user.email "66160162@go.buu.ac.th"
-- git clone https://github.com/Kimrtk08/product-landing-page
+- git clone https://github.com/Anakorn162/product-landing-page
 - git add .
 - git commit -m "สร้างโครงสร้างโปรเจคเริ่มต้น"
 - git add .
